@@ -1,0 +1,206 @@
+canonical_identifier: bkk:krp/KR6r0136/v1
+canonical_location: https://kanripo.org/bkk/KR6r0136/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 補陀洛迦山傳
+  identifiers:
+    alt_id:
+    - T51n2101
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T51/T51n2101.xml
+    old_id: T51n2101
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 原
+  label: 原
+  source_xml_id: wit1
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0136_000.yaml, hash: 'sha256:d3c99715fcd3b85ce43e16486442a768ed93d4e382f93494d5e117d043382126'}
+  - {seq: 1, filename: KR6r0136_001.yaml, hash: 'sha256:0a8d04d09b24612de4f4486dba15ef28df5d200e1669eee01d4efb771131b71c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0136_000.markers.yaml, hash: 'sha256:575a82f3fcfca57ea16c3c9db02030c4da1d0ec36989898ccb5f6af29768b3b8'}
+  - {seq: 1, role: markers, filename: assets/KR6r0136_001.markers.yaml, hash: 'sha256:a70b73c9e440ddcb81519b6792dc876c1881c55261322bd6e4e8e016bf1488ea'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6r0136_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 補陀洛迦山傳題辭
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0136_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6484
+  label: 補陀洛迦山傳
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0136_T_001-mulu-1
+    span:
+    - body
+    - 45
+    - 45
+  label: 1 自在功德品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0136_T_001-mulu-2
+    span:
+    - body
+    - 916
+    - 916
+  label: 2 洞宇封域品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0136_T_001-mulu-3
+    span:
+    - body
+    - 1573
+    - 1573
+  label: 3 應感祥瑞品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0136_T_001-mulu-4
+    span:
+    - body
+    - 2857
+    - 2857
+  label: 4 興建沿革品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0136_T_001-mulu-5
+    span:
+    - body
+    - 3750
+    - 3750
+  label: 5 附錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0136_T_001-mulu-6
+    span:
+    - body
+    - 4522
+    - 4522
+  label: 6 觀音大士讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0136_T_001-mulu-7
+    span:
+    - body
+    - 5166
+    - 5166
+  label: 7 名賢詩詠
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0136_T_001-mulu-8
+    span:
+    - body
+    - 5172
+    - 5172
+  label: 趙孟頫詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0136_T_001-mulu-9
+    span:
+    - body
+    - 5237
+    - 5237
+  label: 劉仁本詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0136_T_001-mulu-10
+    span:
+    - body
+    - 5360
+    - 5360
+  label: 盛熙明詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0136_T_001-mulu-11
+    span:
+    - body
+    - 5485
+    - 5485
+  label: 竺曇詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0136_T_001-mulu-12
+    span:
+    - body
+    - 5610
+    - 5610
+  label: 蒲菴詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0136_T_001-mulu-13
+    span:
+    - body
+    - 5758
+    - 5758
+  label: 全室詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0136_T_001-mulu-14
+    span:
+    - body
+    - 5874
+    - 5874
+  label: 了菴詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0136_T_001-mulu-15
+    span:
+    - body
+    - 6311
+    - 6311
+  label: 蔣清翊識
+  type: mulu
+  level: 1
+hash: sha256:46bbe7120380ac97cb8585a52a9845938f35a2f49828a81800dacaebc51611c0
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
