@@ -24,17 +24,17 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6r0136_000.yaml, hash: 'sha256:3dbcd2d7d624fe931ee7a3f3cf5d84da96df5dc6fc2ddcb2567c12b8eb1ba8e0'}
+  - {seq: 0, filename: KR6r0136_000.yaml, hash: 'sha256:c9849e6ec4de440b43236f92ac5e033e145cd73e7cbd0a583bb1e2017b314b99'}
   - {seq: 1, filename: KR6r0136_001.yaml, hash: 'sha256:fa30ea8255d4bd78cebcdcba74fa8445dff492c28db96a5c246b0cba9fdb2c67'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0136_000.markers.yaml, hash: 'sha256:95885c9769b8072318ce743a335f3007594a9c51640d164e75a237902cfcb8fd'}
+  - {seq: 0, role: markers, filename: assets/KR6r0136_000.markers.yaml, hash: 'sha256:c06c34597bc0fc18c4a1101e0e4e6b90da609ceca6120dfefce36cd6dfaa719d'}
   - {seq: 1, role: markers, filename: assets/KR6r0136_001.markers.yaml, hash: 'sha256:2a457dc92fae0145300a5eabe17c2b84dffed43592841e5cebab04467bb6913b'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6r0136_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 補陀洛迦山傳題辭
@@ -200,7 +200,7 @@ table_of_contents:
   label: 蔣清翊識
   type: mulu
   level: 1
-hash: sha256:ca8c8a69986b22f13c90834f6120f3c7ab1a81e0f31bf9cd2eb01c423863cc84
+hash: sha256:921cef94f8798d2e835fa396708df422499f86fbaeaacae7f50c77f20703e26b
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
